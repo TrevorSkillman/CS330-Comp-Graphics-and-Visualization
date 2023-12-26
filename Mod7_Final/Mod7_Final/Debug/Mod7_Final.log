@@ -1,0 +1,10 @@
+﻿  Final.cpp
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(409,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(552,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(553,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(557,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(558,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(560,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(561,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\trevo\source\repos\Mod7_Final\Mod7_Final\Final.cpp(570,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mod7_Final.vcxproj -> C:\Users\trevo\source\repos\Mod7_Final\Debug\Mod7_Final.exe
